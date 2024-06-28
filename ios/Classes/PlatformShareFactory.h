@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-#import <PlatformShare.h>
+#import "PlatformShare.h"
 
 @interface PlatformShareFactory : NSObject
 
